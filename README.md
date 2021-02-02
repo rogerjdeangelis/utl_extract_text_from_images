@@ -9,7 +9,7 @@ Extract text imbeded inside images into clear text in a file
     ```  example output  ```
     ```  https://www.dropbox.com/s/2cz2r6r7xneedk9/bmp.txt?dl=0  ```
     ```    ```
-    ```    ```
+    ```    You have to put tesseract in Program  Files (86) Folder ```
     ```    WORKING CODE  ```
     ```    ```
     ```        Use SAS Code to create an BMP image.  ```
