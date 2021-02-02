@@ -15,6 +15,7 @@ https://www.dropbox.com/s/2cz2r6r7xneedk9/bmp.txt?dl=0
 
       * Convert text in image to text;
       * this command is inside the macro above;
+      * You have to put tesseract in Program  Files (86) Folder;
       x c:/progra~2/tesseract-ocr/tesseract d:/tesser/slide.bmp d:/tesser/slide.txt;
 
 
